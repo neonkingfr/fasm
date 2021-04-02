@@ -1,7 +1,4 @@
+***FLAT ASSEMBLER***
 
-The fasm.o is an object file in ELF format. To get the final executable for
-your system, you need to use the appropriate tool to link it with the C
-library available on your platform. With the GNU tools it is enough to use
-this command:
-
-  gcc fasm.o -o fasm
+From version 1.73.27 and 1.43
+x86,x64,ARM32,ARM64
